@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 790" role="img" aria-label="Đồ họa minh họa mốc 1954">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e1d5bb"/><stop offset=".52" stop-color="#b9ae98"/><stop offset="1" stop-color="#948671"/></linearGradient><pattern id="line" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M0 38 L38 0" stroke="#ffffff" stroke-opacity=".14" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="790" fill="url(#bg)"/><rect width="1200" height="790" fill="url(#line)"/>
+<circle cx="870" cy="216" r="186" fill="#645548" fill-opacity=".17"/><circle cx="870" cy="216" r="132" fill="none" stroke="#645548" stroke-opacity=".4" stroke-width="3"/>
+<path d="M0 578 Q130 468 255 514 Q382 404 522 490 Q632 403 751 491 Q950 379 1200 522 L1200 790 L0 790Z" fill="#645548" opacity=".24"/>
+<path d="M0 658 Q135 572 240 609 Q416 510 588 602 Q737 510 887 591 Q1051 521 1200 607 L1200 790 L0 790Z" fill="#645548" opacity=".35"/>
+<path d="M0 718 Q135 626 282 660 Q407 602 571 676 Q737 618 903 669 Q1065 602 1200 651 L1200 790 L0 790Z" fill="#645548" opacity=".56"/>
+<path d="M98 106 H398" stroke="#645548" stroke-width="4"/><text x="100" y="186" fill="#645548" font-family="Georgia,serif" font-size="106" font-weight="bold">1954</text>
+<text x="103" y="240" fill="#3c342b" font-family="Arial,sans-serif" font-size="25" letter-spacing="6">HỒ SƠ LỊCH SỬ</text>
+<rect x="100" y="290" width="450" height="3" fill="#645548" opacity=".65"/><text x="102" y="347" fill="#3c342b" font-family="Arial,sans-serif" font-size="34">Giải phóng Hà Nội</text>
+<text x="873" y="238" font-size="84" text-anchor="middle" fill="#645548" font-family="Georgia,serif">11</text>
+<rect x="45" y="45" width="1110" height="700" fill="none" stroke="#f7f0dd" stroke-opacity=".56" stroke-width="4"/>
+<text x="104" y="723" fill="#efe6cf" font-family="Arial,sans-serif" font-size="24" letter-spacing="4">VIETNAM  ·  1951—1954</text></svg>
