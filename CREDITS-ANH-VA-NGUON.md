@@ -29,3 +29,15 @@
 - **Giải phóng Hà Nội:** https://baotanglichsuquocgia.vn/vi/Articles/3097/12610/ngay-giai-phong-thu-djo-10-10-1954.html
 
 **Lưu ý:** Website phụ thuộc kết nối mạng để hiển thị ảnh tư liệu được dẫn từ Commons và để tải web font. Nếu ảnh không tải được, trang sẽ tự động dùng đồ họa SVG cục bộ tương ứng từng mốc. Nội dung chữ, thiết kế và tương tác vẫn chạy từ tệp ZIP.
+
+
+## Nguồn bổ sung trong bản cập nhật
+
+- Kinh tế hậu phương và chính sách thuế, mậu dịch 1951: https://chinhphu.vn/giai-doan-1945-1954-khang-chien-va-kien-quoc/vi-day-manh-cuoc-khang-chien-chong-phap-10001591
+- Quốc hội thông qua Luật Cải cách ruộng đất ngày 4/12/1953: https://quochoi.vn/tulieuquochoi/anpham/Pages/anpham.aspx?AnPhamItemID=414
+- Văn bản luật (ngày ban hành 19/12/1953): https://vbpl.moj.gov.vn/botuphap/Pages/vbpq-print.aspx?ItemID=1105
+- Những sai lầm và hoạt động sửa sai cải cách ruộng đất: https://chinhphu.vn/giai-doan-1955-1975-xay-dung-cnxh-va-dau-tranh-thong-nhat-dat-nuoc/1-hoan-thanh-cai-cach-ruong-dat-va-khoi-phuc-kinh-te-quoc-dan-1955-1957-10001592
+- Hậu cần Điện Biên Phủ và số liệu huy động: https://btctdbp.svhttdl.dienbien.gov.vn/portal/pages/2014/Cong-tac-hau-can-trong-chien-dich-Dien-Bien-Phu--meb0fn4yambv4.aspx
+- Hiện vật hậu cần: https://baotanglichsuquocgia.vn/vi/Articles/3096/72237/mot-so-hien-vat-ve-cong-tac-hau-can-trong-chien-dich-djien-bien-phu-1954-hien-luu-giu-trung-bay-tai-btlsqg.html
+
+**Lưu ý ảnh:** Các đồ họa `kinh-te-hau-phuong.svg`, `ruong-dat-1953.svg` và các SVG dự phòng là *minh họa do website tạo*, không phải ảnh tư liệu gốc. Không dùng các hình này như chứng cứ lịch sử.

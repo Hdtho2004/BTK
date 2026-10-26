@@ -14,7 +14,10 @@ Website 1 trang (static), thiết kế theo phong cách triển lãm lịch sử
 
 ## Những gì được tích hợp
 
-- 11 cột mốc giai đoạn 1951–1954, từ Đại hội II đến ngày giải phóng Hà Nội.
+- 13 cột mốc giai đoạn 1951–1954, từ Đại hội II đến ngày giải phóng Hà Nội.
+- Bổ sung mốc 01/05/1951 về tổ chức kinh tế hậu phương và 04/12/1953 về chính sách ruộng đất với phân tích cả giới hạn/sai lầm.
+- Phần riêng **Hậu phương & Nhân dân**: vai trò nông dân, phụ nữ, dân công, thanh niên xung phong; thống kê 261.453 dân công, 20.991 xe đạp thồ, 25.056 tấn gạo.
+- Phần **Ý nghĩa lịch sử**: 4 góc nhìn về quân sự, xã hội, ngoại giao và ảnh hưởng quốc tế; sơ đồ nhân quả và ghi chú giới hạn của năm 1954.
 - Trục thời gian dọc, ảnh và phân tích ngắn bên cạnh mốc thời gian; nhấn để đọc thêm.
 - Chuyển nhanh giữa các năm, thanh tiến độ đọc, hiệu ứng khi cuộn.
 - Giao diện thích ứng điện thoại / máy tính, giảm chuyển động theo thiết lập người dùng.
